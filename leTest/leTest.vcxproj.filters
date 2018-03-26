@@ -33,5 +33,11 @@
     <ClCompile Include="quickSort.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="zigzag.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="simPath1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
