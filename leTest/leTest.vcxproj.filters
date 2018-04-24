@@ -39,5 +39,37 @@
     <ClCompile Include="simPath1.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="testAlloc.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="mapSet.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="huiwen.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="findString.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="multiplyStr.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="dfs_bfs.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="findStrIp.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="kuohao.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="matchStrkuohao.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="testAlloc.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

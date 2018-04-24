@@ -116,13 +116,25 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="binaryCom.cpp" />
+    <ClCompile Include="dfs_bfs.cpp" />
+    <ClCompile Include="findString.cpp" />
+    <ClCompile Include="findStrIp.cpp" />
     <ClCompile Include="heap.cpp" />
+    <ClCompile Include="huiwen.cpp" />
+    <ClCompile Include="kuohao.cpp" />
+    <ClCompile Include="mapSet.cpp" />
+    <ClCompile Include="matchStrkuohao.cpp" />
     <ClCompile Include="maxLenAph.cpp" />
+    <ClCompile Include="multiplyStr.cpp" />
     <ClCompile Include="palindrome.cpp" />
     <ClCompile Include="quickSort.cpp" />
     <ClCompile Include="simPath1.cpp" />
     <ClCompile Include="test.cpp" />
+    <ClCompile Include="testAlloc.cpp" />
     <ClCompile Include="zigzag.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="testAlloc.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
